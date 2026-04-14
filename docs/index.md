@@ -70,14 +70,15 @@ For build options (Earthly, Debian package) and prerequisite details, see the
 :::{toctree}
 :hidden:
 
-Installation Guide <tutorial/installation.md>
-Prerequisites <tutorial/prerequisite.md>
-Architecture <architecture.md>
-Usage Guide <tutorial/usage-guide.md>
-Secure Boot Configuration <tutorial/configure-secure-boot.md>
-Configure Users <tutorial/configure-image-user.md>
-Customize Image Build <tutorial/configure-additional-actions-for-build.md>
-Configure Multiple Package Repositories <tutorial/configure-multiple-package-repositories.md>
+Installation Guide <./tutorial/installation.md>
+Prerequisites <./tutorial/prerequisite.md>
+Architecture <./architecture.md>
+Usage Guide <./tutorial/usage-guide.md>
+Secure Boot Configuration <./tutorial/configure-secure-boot.md>
+Configure Users <./tutorial/configure-image-user.md>
+Customize Image Build <./tutorial/configure-additional-actions-for-build.md>
+Configure Multiple Package Repositories <./tutorial/configure-multiple-package-repositories.md>
+AI Template Generation (RAG) <./tutorial/ai-template-generation.md>
 release-notes.md
 
 :::
